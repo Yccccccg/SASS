@@ -1,0 +1,534 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  width: 1920px;
+  height: 90px;
+  margin: 0 auto;
+  font-size: 0;
+  p {
+    display: inline-block;
+    vertical-align: top;
+  }
+  .onep {
+    width: 214px;
+    height: 38px;
+    margin-top: 20px;
+    margin-right: 38px;
+    text-align: center;
+    color: #7c5e53;
+    border: 6px solid #7c5e53;
+    display: inline-block;
+    p {
+      margin-top: 10px;
+      font-size: 13px;
+      font-family: webfont;
+    }
+  }
+  .twop {
+    margin-top: 36px;
+    font-size: 13px;
+    font-family: webfont;
+    color: #7c5e53;
+    margin-right: 70px;
+  }
+  .threep {
+    margin-top: 36px;
+    font-size: 13px;
+    font-family: webfont;
+    color: #7c5e53;
+    margin-right: 70px;
+  }
+  .fourp {
+    margin-top: 36px;
+    font-size: 13px;
+    font-family: webfont;
+    color: #7c5e53;
+    margin-right: 92px;
+  }
+  .fivep {
+    margin-top: 36px;
+    font-size: 13px;
+    font-family: webfont;
+    color: #b45d64;
+  }
+}
+
+
+#firstp {
+  width: 94px;
+  font-family: webfont;
+  font-size: 32px;
+  font-weight: bold;
+  color: #b45d64;
+  margin-top: 25px;
+  margin-left: 160px;
+  margin-right: 677px;
+}
+
+
+#poster {
+  width: 1920px;
+  height: 481px;
+  padding-top: 510px;
+  margin: 0 auto 28px auto;
+  background: url(../images/poster.png) center no-repeat;
+  background-size: cover;
+  position: relative;
+  left: 0;
+  top: 0;
+  .headtitle {
+    color: white;
+    font-family: webfont;
+    font-size: 125px;
+    text-align: center;
+  }
+  .subtitle {
+    color: white;
+    font-family: webfont;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 30px;
+  }
+  .subtitle1 {
+    color: white;
+    font-family: webfont;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+  }
+}
+
+.icon {
+  font-family: "iconfont";
+  font-style: normal;
+}
+
+.icon-yuanxingjiantouxia {
+  font-family: "iconfont";
+  font-size: 55px;
+  font-style: normal;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  left: 933px;
+  top: 864px;
+}
+
+#Bookdata {
+  width: 1598px;
+  height: 70px;
+  margin: 0 auto;
+  font-size: 0;
+  margin-bottom: 30px;
+  position: relative;
+  left: 0;
+  top: 0;
+  .Iwant {
+    display: inline-block;
+    width: 155px;
+    line-height: 70px;
+    font-size: 25px;
+    font-family: webfont;
+    color: #b45d64;
+  }
+  .casual {
+    vertical-align: top;
+    color:  #b45d64;
+    font-size: 25px;
+    font-family: webfont;
+    width: 340px;
+    height: 58px;
+    border: none;
+    border: 6px solid #7c5e53;
+  }
+  .icon-xiangxiajiantou {
+    font-size: 32px;
+    position: absolute;
+    left: 451px;
+    top: 22px;
+    color: #7c5e53;
+  }
+  .iconxxjiantou {
+    font-size: 32px;
+    position: absolute;
+    left: 1114px;
+    top: 22px;
+    color: #7c5e53;
+  }
+  .dfto {
+    display: inline-block;
+    width: 312px;
+    line-height: 70px;
+    font-size: 25px;
+    font-family: webfont;
+    color: #b45d64;
+    text-align: center;
+  }
+  .Friday {
+    vertical-align: top;
+    color:  #b45d64;
+    font-size: 25px;
+    font-family: webfont;
+    width: 340px;
+    height: 58px;
+    border: none;
+    border: 6px solid #7c5e53;
+    margin-right: 32px;
+  }
+  .Dallas {
+    display: inline-block;
+    width: 340px;
+    line-height: 70px;
+    font-size: 25px;
+    font-family: webfont;
+    color: #b45d64;
+    text-align: center;
+  }
+  .icon-yuanjiantou {
+    font-size: 54px;
+    position: absolute;
+    left: 1542px;
+    top: 5px;
+    color: #7c5e53;
+  }
+}
+
+#Idea {
+  width: 1598px;
+  height: 695px;
+  font-size: 0;
+  margin: 0 auto;
+  .leftIdea {
+    width: 533px;
+    height: 612px;
+    padding-top: 83px;
+    display: inline-block;
+    .Ideapic {
+      margin-left: 236px;
+      margin-bottom: 30px;
+    }
+    .subtitle {
+      font-family: webfont;
+      font-size: 18px;
+      color: #7c5e53;
+      text-align: center;
+    }
+    .icon-hengxian {
+      font-size: 51px;
+      color: #7c5e53;
+      margin-left: 241px;
+    }
+    .leftarticle {
+      font-size: 15px;
+      text-align: center;
+      font-family: webfont;
+      color: #7c5e53;
+      margin-bottom: 101px;
+    }
+  }
+  .rightIdea {
+    display: inline-block;
+    width: 1065px;
+    height: 695px;
+    background: url(../images/rightpic.png) center no-repeat;
+    position: relative;
+    left: 0;
+    top: 0;
+    .icon-bofang {
+      font-size: 84px;
+      position: absolute;
+      left: 490px;
+      top: 309px;
+      color: white;
+    }
+  }
+}
+
+#step {
+  width: 1598px;
+  height: 380px;
+  margin: 0 auto;
+  font-size: 0;
+  .stepleft {
+    display: inline-block;
+    vertical-align: top;
+    width: 33%;
+    height: 294px;
+    padding-top: 86px;
+    .stepone {
+      font-family: webfont;
+      font-size: 23px;
+      color: #7c5e53;
+      text-align: center;
+    }
+    .onehx {
+      font-size: 50px;
+      color: #7c5e53;
+      margin-left: 241px;
+    }
+    .SLa {
+      font-family: webfont;
+      font-size: 15px;
+      text-align: center;
+      margin-bottom: 48px;
+      color: #7c5e53;
+    }
+    .steponep {
+      display: inline-block;
+      width: 33%;
+      font-family: webfont;
+      font-size: 13px;
+      text-align: center;
+      color: #bcbcbc;
+    }
+  }
+  .stepmiddle {
+    display: inline-block;
+    vertical-align: top;
+    width: 34%;
+    height: 294px;
+    padding-top: 86px;
+    .steptwo {
+      font-family: webfont;
+      font-size: 23px;
+      color: #7c5e53;
+      text-align: center;
+    }
+    .twohx {
+      font-size: 50px;
+      color: #7c5e53;
+      margin-left: 241px;
+    }
+    .SMa {
+      font-family: webfont;
+      font-size: 15px;
+      text-align: center;
+      margin-bottom: 48px;
+      color: #7c5e53;
+    }
+    .steptwop {
+      font-family: webfont;
+      font-size: 13px;
+      text-align: center;
+      color: #bcbcbc;
+    }
+  }
+  .stepright {
+   display: inline-block;
+   vertical-align: top;
+   width: 33%;
+   height: 294px;
+   padding-top: 86px;
+   position: relative;
+   .stepthree {
+     font-family: webfont;
+     font-size: 23px;
+     color: #7c5e53;
+     text-align: center;
+   }
+   .threehx {
+     font-size: 50px;
+     color: #7c5e53;
+     margin-left: 241px;
+   }
+   .SRa {
+     font-family: webfont;
+     font-size: 15px;
+     text-align: center;
+     margin-bottom: 48px;
+     color: #7c5e53;
+   }
+   .stepthreep {
+     display: inline-block;
+     width: 33%;
+     font-family: webfont;
+     font-size: 13px;
+     text-align: center;
+     color: #bcbcbc;
+   }
+  }
+}
+
+#picture {
+  width: 1598px;
+  height: 366px;
+  margin: 0 auto;
+  font-size: 0;
+  margin-bottom: 91px;
+  .Lpic {
+    display: inline-block;
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 33.3%;
+    height: 366px;
+    background: url(../images/internet.png) center no-repeat;
+    .icon-triangle {
+      font-size: 29px;
+      position: absolute;
+      left: 252px;
+      top: -11px;
+      color: white;
+    }
+  }
+  .Mpic {
+   display: inline-block;
+   position: relative;
+   left: 0;
+   top: 0;
+   vertical-align: top;
+   width: 33.3%;
+   height: 366px;
+   background: url(../images/drive.png) center no-repeat;
+   .Mtriangle {
+     font-size: 29px;
+     position: absolute;
+     left: 252px;
+     top: -11px;
+     color: white;
+   }
+ }
+ .Rpic {
+   display: inline-block;
+   position: relative;
+   left: 0;
+   top: 0;
+   vertical-align: top;
+   width: 33.3%;
+   height: 231px;
+   padding-top: 135px;
+   background: url(../images/food.png) center no-repeat;
+   .Rtriangle {
+    font-size: 29px;
+    position: absolute;
+    left: 252px;
+    top: -11px;
+    color: white;
+  }
+  .Rpiconep {
+    font-family: webfont;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    margin-bottom: 17px;
+  }
+  .Rpictwop {
+    font-family: webfont;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+  }
+  .Ryuanjiantou {
+    position: absolute;
+    left: 248px;
+    top: 231px;
+    color: white;
+    font-size: 54px;
+  }
+ }
+}
+
+#footer {
+  width: 1759px;
+  height: 197px;
+  font-size: 0;
+  padding-top: 42px;
+  padding-left: 161px;
+  margin: 0 auto;
+  background: #b7b7b7;
+  position: relative;
+  left: 0;
+  top: 0;
+  .footerinp {
+    width:421px;
+    height:52px;
+    vertical-align: top;
+    border: none;
+    font-size: 13px;
+    color: #a1a1a1;
+  }
+  .footerbut {
+    width:112px;
+    height:52px;
+    vertical-align: top;
+    background: white;
+    border: none;
+    font-size: 15px;
+    color: #b7b7b7;
+    margin-right: 95px;
+  }
+  .STDN {
+    display: inline-block;
+    vertical-align: top;
+    width: 272px;
+    height: 40px;
+    padding-left: 58px;
+    border: 6px solid #fff;
+    font-size: 14px;
+    font-family: webfont;
+    line-height: 40px;
+    color: white;
+    margin-right: 104px;
+    margin-bottom: 68px;
+    .footerxyjt {
+      margin-left: 40px;
+      font-size: 20px;
+    }
+  }
+  .footeronep {
+    display: inline-block;
+    line-height: 52px;
+    font-family: webfont;
+    font-size: 14px;
+    color: white;
+    margin-right: 56px;
+  }
+  .footerthreep {
+    display: inline-block;
+    line-height: 52px;
+    font-family: webfont;
+    font-size: 14px;
+    color: white;
+    margin-right: 84px;
+  }
+  .footerfourp {
+    display: inline-block;
+    line-height: 52px;
+    font-family: webfont;
+    font-size: 14px;
+    color: white;
+  }
+  .footertwop {
+    display: inline-block;
+    line-height: 52px;
+    font-family: webfont;
+    font-size: 14px;
+    color: white;
+    margin-right: 61px;
+  }
+  .icon-birdxiaoniao {
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    left: 946px;
+    top: 120px;
+  }
+  .icon-facebookf {
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    left: 994px;
+    top: 118px;
+  }
+  .Var {
+    font-size: 13px;
+    font-family: webfont;
+    color: white;
+    margin-left: 591px;
+  }
+
+}
